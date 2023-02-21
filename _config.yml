@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "David (Dáithí) Rooney"
 title_separator          : "-"
-description              : &description "Phd student in Rhetoric, Language and Politics at the University of Texas at Austin"
+description              : &description 
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -80,7 +80,7 @@ analytics:
 # Site Author
 author:
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "PhD Student in Rhetoric, Language and Politics at the University of Texas at Austin"
   location         : "Austin, Texas"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=szkaJl0AAAAJ&hl=en&oi=sra"
@@ -92,7 +92,6 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
