@@ -10,4 +10,3 @@ paperurl: 'www.tandfonline.com/doi/abs/10.1080/17524032.2022.2125548'
 citation: 'Rooney, David. (2022). &quot;’A Primordial Situation’: Metonymical Linkages in US Newspaper Coverage of Wet Markets.&quot; <i>Environmental Communication</i>. 1(1).'
 ---
 
-Recommended citation: 'Rooney, David.(2022). &quot;’A Primordial Situation’: Metonymical Linkages in US Newspaper Coverage of Wet Markets.&quot; <i>Environmental Communication</i>. 1(1).'
