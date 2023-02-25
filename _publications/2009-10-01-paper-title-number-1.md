@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "’A Primordial Situation’: Metonymical Linkages in US Newspaper Coverage of Wet Markets"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2022-10-14-Wet-Market
+excerpt: 'COVID-19 has ushered in controversy and debate over Chinese wet markets, including calls for their immediate shutdown by major politicians and international figures. Despite their politicization, there is considerable confusion on what wet markets are and their relation to wildlife, sale of exotic animals and/or disease risk. This study examines US newspaper coverage of wet markets in the spring of 2020, finding that articles portrayed wet markets as metonyms for broader shifts in human–animal relations. In place of examining specific behaviors that threatened public health, coverage tended to emphasize the strangeness of meats and slaughter to a Western audience familiar with a broad gap between meat and animals, repeating tropes of Chinese dog or cat-eating. As a result, discomfort at wet market descriptions is easily translated into racial animus, associating inappropriate human–animal contact with cultural pathology and marking factory farming as a litmus test of a developed distance from nature.'
+
+date: 2022-10-14
+venue: 'Environmental Communciation'
+paperurl: 'www.tandfonline.com/doi/abs/10.1080/17524032.2022.2125548'
+citation: 'Rooney, David. (2022). &quot;’A Primordial Situation’: Metonymical Linkages in US Newspaper Coverage of Wet Markets.&quot; <i>Environmental Communication</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: 'Rooney, David.(2022). &quot;’A Primordial Situation’: Metonymical Linkages in US Newspaper Coverage of Wet Markets.&quot; <i>Environmental Communication</i>. 1(1).'
