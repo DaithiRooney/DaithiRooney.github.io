@@ -94,7 +94,7 @@ Service and leadership
   * Cornell Forensics Society (Speech & Debate)
   * Policy Debate Captain 2014-2018.
   * National Debate tournament quarterfinalist (2018), CEDA National championship semi-finalist (2017, 2018).
-  * Outreach included public debates: 1) with representative from PETA on animal testing, 2) on efficacy of War on Terror with cadets from West Point military academy (we won).
+  * Outreach included public debates: 1) with representative from PETA on animal testing, 2) on efficacy of the War on Terror with cadets from West Point military academy (we won).
   * Instructor in the MacCormick Secure Center-- a weekly debate insturction to juvenile prisoners sentencede in adult criminal court. We would give lectures on student-selected topics (ex. lectures from Cornell on Malcom X's legacy) and facilitate student debates on topics of their choosing, providing literature the prison lacked.
 
 
