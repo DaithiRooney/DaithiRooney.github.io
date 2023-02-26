@@ -11,7 +11,8 @@ redirect_from:
 
 Full cv here
 ======
-[cv_omitted.docx](https://github.com/DaithiRooney/DaithiRooney.github.io/files/10832566/cv_omitted.docx)
+[cv_23_omitted.pdf](https://github.com/DaithiRooney/DaithiRooney.github.io/files/10832570/cv_23_omitted.pdf)
+
 
 Education
 ======
