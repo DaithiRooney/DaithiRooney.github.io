@@ -13,6 +13,7 @@ Full CV here
 ======
 https://daithirooney.github.io/files/cv_23_omitted.pdf.
 
+
 Education
 ======
 * B.S. in Industrial and Labor Relations, Cornell University, 2018.
