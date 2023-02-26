@@ -9,10 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Full cv here
+Full CV here
 ======
-[cv_23_omitted.pdf](https://github.com/DaithiRooney/DaithiRooney.github.io/files/10832570/cv_23_omitted.pdf)
-
+[CV_23](http://daithrooney.github.io/files/cv_23_omitted.pdf)
 
 Education
 ======
@@ -55,15 +54,6 @@ Work experience
   * Included instruction to many ESL students (from 2018-2020, roughly 1/5 of students every semester).
   * Experience with online teaching/grading (Spring 2020) with Canvas/PitchVantage as well as several lectures in Spring of 2019 when instructor was ill.
 
- 
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Talks
 ======
