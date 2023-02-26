@@ -6,7 +6,7 @@ excerpt: 'Images of nonhuman animals may be effective tools in producing climate
 date: 2012-03-31
 venue: 'Journalism and Media'
 paperurl: 'https://doi.org/10.3390/journalmedia3020020.'
-citation: 'Rooney, David. (2022). &quot;’All Fishing is Wildlife Poaching:’ Nonhuman Animal Imagery and Mutual Avowal in _Racing Extinction_ and _Seaspiracy_.&quot; <i>Journalism and Media </i>. 3(2).'
+citation: 'Rooney, David. (2022). &quot;’All Fishing is Wildlife Poaching:’ Nonhuman Animal Imagery and Mutual Avowal in Racing Extinction and Seaspiracy.&quot; <i>Journalism and Media </i>. 3(2).'
 ---
 
 [Download paper here](http://daithirooney.github.io/files/All_Fishing_Is_Wildlife_Poaching.pdf)
