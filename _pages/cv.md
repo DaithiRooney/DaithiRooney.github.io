@@ -77,7 +77,7 @@ Service and leadership
 
 * Fall 2016-Spring 2018 Senior Editor
   * Cornell Disability Studies Journal
-  * Approving/reviewing/editing papers subimtted for publication on issues surroundung disability studies, legal discrimination and literary analysis
+  * Approving/reviewing/editing papers subimtted for publication on issues surrounding disability studies, legal discrimination and literary analysis
 
 * Fall 2014-Spring 2018 Organizer
   * Cornell Students for Animal Rights
