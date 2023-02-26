@@ -6,7 +6,7 @@ excerpt: 'COVID-19 has ushered in controversy and debate over Chinese wet market
 
 date: 2022-10-14
 venue: 'Environmental Communciation'
-paperurl: 'www.tandfonline.com/doi/abs/10.1080/17524032.2022.2125548'
+paperurl: [link to paper](www.tandfonline.com/doi/abs/10.1080/17524032.2022.2125548)
 citation: 'Rooney, David. (2022). &quot;’A Primordial Situation’: Metonymical Linkages in US Newspaper Coverage of Wet Markets.&quot; <i>Environmental Communication</i>. 16(6).'
 ---
 
