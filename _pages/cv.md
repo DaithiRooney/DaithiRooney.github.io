@@ -94,5 +94,5 @@ Service and leadership
 
 * Fall 2013-Spring 2018 Organizer & Teacher
   * Splash! At Cornell
-  * Helped organize and run program where hunderds of low-income students travelled to take classes on various subjects from Cornell professors and students.
+  * Helped organize and run program where hundreds of low-income students travelled to take classes on various subjects from Cornell professors and students.
   * Taught classes on speciesism and the history of the American prison industrial complex.
