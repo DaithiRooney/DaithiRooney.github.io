@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+Full cv here
+======
+[cv_omitted.docx](https://github.com/DaithiRooney/DaithiRooney.github.io/files/10832566/cv_omitted.docx)
+
 Education
 ======
 * B.S. in Industrial and Labor Relations, Cornell University, 2018.
