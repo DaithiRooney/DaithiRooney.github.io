@@ -10,4 +10,4 @@ citation: 'Rooney, David. (2022). &quot;’All Fishing is Wildlife Poaching:’ 
 ---
 
 [Download paper here](http://daithirooney.github.io/files/All_Fishing_Is_Wildlife_Poaching.pdf)
-
+ 
