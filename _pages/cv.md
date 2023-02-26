@@ -11,7 +11,7 @@ redirect_from:
 
 Full CV here
 ======
-https://daithirooney.github.io/files/cv_23_omitted.pdf.
+https://daithirooney.github.io/files/cv_23_omitted.pdf
 
 
 Education
