@@ -13,7 +13,7 @@ This is my website!
 About Me
 ======
 
-My name is David Rooney. Dáithí is what most people refer to me as (pronounced Daa-Hee). It is an Irish name, as I was born and raised outside Dublin, where I spent my childhood in Gaelscoileanna (schools with total Irish langauge immersion). David is fine to refer to me as well.
+My name is David Rooney. Dáithí is what many people refer to me as (pronounced Daa-Hee). It is an Irish name, as I was born and raised outside Dublin. David is totally fine to refer to me as well.
 
 I am currently a PhD student at the Moody School of Communication, University of Texas-Austin. I am on the Rhetoric, Langauge and Political Communication track there under Dr. Johanna Hartelius.
 
