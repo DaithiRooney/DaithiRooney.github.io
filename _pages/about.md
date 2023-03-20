@@ -23,9 +23,9 @@ I am generally interested in the intersections of environmental communication, a
 
 Some recently published works examine:
 
-1) The discursive construction of disease-risk (SARS-CoV-2) in US newspaper coverage of Chinese wet markets. I found that consumption of certain culturally favored animals (e.g., cats, dogs, horses), open-air slaughter and the live sale of animals were taken as evidence of cultural backwardness and propensity for disease, which ignored established high-risk practices, like the pangolin trade, as well as displaces the zoonotic disease risk of industrialized factory farming. 
+1) The discursive construction of disease-risk (SARS-CoV-2) in US newspaper coverage of Chinese wet markets. I found that consumption of certain culturally favored animals (e.g., cats, dogs, horses), open-air slaughter and the live sale of animals were taken as evidence of cultural backwardness and propensity for disease, which ignored established high-risk practices, like the pangolin trade, as well as displaced the zoonotic disease risk of industrialized factory farming. 
 
-3) How ecological documentaries risk hierarchalizing environmental damage and producing bias by associating direct harms to individual species in Asia and Indonesia but generalized ecological harm, without showing harm to individuals, with the West. I outline a series of best practices for environmental imagery for threatened species at the end.
+3) How ecological documentaries risk hierarchalizing environmental damage and producing bias by associating direct harms to individual species across Asia (particularly China and Indonesia) but associated only generalized ecological harm, without showing harm to individuals, with the West. I outline a series of best practices for environmental imagery for threatened species at the end.
 
 Several on-going projects concern: tensions and interconnections between environmental movements and animal rights movements, discourses of meat and plant-based foods, as well as legal rhetoric concerning environmental and other non-human rights.
 
