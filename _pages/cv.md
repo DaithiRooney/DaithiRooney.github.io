@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Full CV [here]([daithirooney.github.io/files/cv_7.13.pdf](https://github.com/DaithiRooney/DaithiRooney.github.io/blob/09d09fb04cf59b93c3b4abe8c6ca992513f00256/files/cv_7.13.pdf))
+Full CV [here]([daithirooney.github.io/files/cv_7.13.pdf])
 ======
 
 
