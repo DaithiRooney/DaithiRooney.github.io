@@ -4,8 +4,8 @@ title: "Plant-based Minimums Report"
 excerpt: "Plant-based Minimums Report"
 author_profile: true
 redirect_from: 
-  - /Plantbased_Minimums_Report/
-  - /Plantbased_Minimums_Report.html
+  - /Plant-based_Minimums_Report/
+  - /Plant-based_Minimums_Report.html
 ---
 
 test
