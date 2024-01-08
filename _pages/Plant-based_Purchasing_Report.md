@@ -18,9 +18,11 @@ Full Reports with short summaries, graphics and other information are linked bel
 
 [LA County, CA](https://daithirooney.github.io/files/LA_County_Report_final.pdf)
 ======
+
 [Orange County, CA](https://daithirooney.github.io/files/Orange_County_Report_final.pdf)
 ======
- [Eugene, Oregon](https://daithirooney.github.io/files/Eugene_Report_finalv2.pdf)
+
+[Eugene, Oregon](https://daithirooney.github.io/files/Eugene_Report_finalv2.pdf)
 ======
 ---
 
