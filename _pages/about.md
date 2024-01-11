@@ -35,7 +35,6 @@ Several on-going projects concern: tensions and interconnections between environ
 
 Other Projects 
 ======
-
 I also engage in quantitative, public-engaged work on the areas of sustainable food and environmental justice. As avoiding 2°C of warming will be [impossible](https://www.science.org/doi/10.1126/science.aba7357) without abandoning meat and dairy products, this is a major area of concern that is still underexplored.
 
 Please see the options on the panel above for some recent work of mine in this area.
