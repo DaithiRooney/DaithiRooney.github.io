@@ -12,7 +12,7 @@ redirect_from:
 Full CV [here](https://daithirooney.github.io/files/cv_march_24_git.pdf)
 ======
 
-
+ 
 Education
 ======
 * B.S. in Industrial and Labor Relations, Cornell University, 2018.
