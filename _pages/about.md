@@ -15,7 +15,7 @@ About Me
 
 My name is David Rooney. Dáithí is what many people refer to me as (pronounced Daa-Hee). It is an Irish name, as I was born and raised outside Dublin. David is totally fine to refer to me as well.
 
-I am currently a doctoral candidate at the Moody School of Communication, University of Texas-Austin. I am on the Rhetoric, Langauge and Political Communication track there under Dr. Johanna Hartelius, where I will defend my dissertation in May 2024.
+I am currently a doctoral candidate at the Moody School of Communication, University of Texas-Austin. I am on the Rhetoric, Langauge and Political Communication track there under Dr. Johanna Hartelius, where I will defend my dissertation in Spring 2025. 
 
 Current Research
 ======
@@ -33,7 +33,7 @@ Some recently published works examine:
 
 4) The growing importance of carnivore diets (particularly raw meat, raw eggs, raw milk, etc.) in both mainstream and far-right digital spaces. We outline what we call "primal rhetorical networks," associated with the Carnivore turn popularized by Jordan Peterson, Joe Rogan, The Liver King and more. We argue that there is a rhetorical pipeline from mainstream carnivore influencers (like the Liver King) towards explicitly white nationalist carnivore thinkers, like the Raw Egg Nationalist. in _Frontiers in Communication_ w/S.M. Muller (Asst Prof, Texas State) & Cecilia Cerja (Asst Prof, Sewanee: The University of the South).
 
-Several on-going projects concern: tensions and interconnections between environmental movements and animal rights movements, discourses of meat and plant-based foods, as well as legal rhetoric concerning environmental and other non-human rights.
+Several on-going projects concern: ecological rhetorics of the machine, tensions and interconnections between environmental movements and animal rights movements, discourses of meat and plant-based foods, as well as legal rhetoric concerning environmental and other non-human rights.
 
 Other Projects 
 ======
